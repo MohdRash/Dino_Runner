@@ -1,5 +1,5 @@
 # Dino_Runner
-This is the standard dino game inspired from T-rex game in google chrome
+This is the standard dino game inspired from T-rex game in google chromes
 
 
 ![screenshot](https://user-images.githubusercontent.com/87312799/165258943-223093d9-a3f7-4456-9e7b-b29836ed8fea.gif)
