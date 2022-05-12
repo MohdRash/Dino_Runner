@@ -25,3 +25,7 @@ This is the standard dino game inspired from T-rex game in google chrome
 
 ## Little Bird
 ![image](https://user-images.githubusercontent.com/87312799/165695631-1d806a10-1c51-4016-aaaf-15f3c1fd8585.png)
+
+
+
+![Alt](https://repobeats.axiom.co/api/embed/467705633d98779c68a9e13e9cc00ad66ef3c55a.svg "Repobeats analytics image")
